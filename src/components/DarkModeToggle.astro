@@ -51,8 +51,14 @@
   class ModeToggle extends HTMLElement {
     constructor() {
       super();
-      let currentMode: "light" | "dark" =
-        document.documentElement.classList.contains("dark") ? "dark" : "light";
+      let currentMode = "light";
+    const storedTheme = sessionStorage.getItem("theme");
+
+    if (storedTheme) {
+      currentMode = storedTheme === "dark" ? "dark" : "light";
+    } else {
+      sessionStorage.setItem("theme", "light");
+    }
 
       const toggle = this.querySelector("button");
       const iconElem = toggle?.querySelector("#mode-circle");
