@@ -16,6 +16,8 @@ La mia citazione preferita incapsula perfettamente il rapporto tra costanza e au
 
 Ovviamente, dietro ogni successo c'è sempre una squadra di sostegno incredibile. Vorrei prendere un momento per ringraziare il mio coach [Alberto](https://www.instagram.com/coach_alberto.cere/), che ha sempre creduto in me e mi ha guidato attraverso il mio percorso di fitness. Inoltre, un enorme shout-out a [21Lab Vignola](https://www.instagram.com/21lab_vignola/), la palestra che è diventata la mia seconda casa 🏡. Grazie per aver reso possibile tutto questo!
 
+[Guarda il post](https://www.instagram.com/reel/Cqu5tIgOr0U)
+
 ## Glossario 📖
 
 - **Costanza**: La pratica di perseguire con tenacia un comportamento o un'azione, nonostante le difficoltà che possono sorgere lungo il cammino.
