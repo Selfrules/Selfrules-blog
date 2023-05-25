@@ -1,0 +1,102 @@
+├── .gitignore
+├── astro.config.mjs
+├── content
+│  ├── blog
+│  │  ├── basic-markdown-style-guide.md
+│  │  ├── draft-post.md
+│  │  ├── extended-markdown-style-guide.md
+│  │  ├── external-link-example.md
+│  │  ├── hello-world.md
+│  │  └── syntax-highlighting.md
+│  └── projects
+│    ├── design-system-boilerplate.md
+│    ├── dev-landing-page.md
+│    └── draft-project.md
+├── package-lock.json
+├── package.json
+├── public
+│  ├── favicon.ico
+│  ├── fontawesome
+│  │  ├── css
+│  │  │  ├── all.css
+│  │  │  ├── all.min.css
+│  │  │  ├── brands.bareminimum.css
+│  │  │  ├── brands.css
+│  │  │  ├── brands.min.css
+│  │  │  ├── fontawesome.bareminimum.css
+│  │  │  ├── fontawesome.css
+│  │  │  ├── fontawesome.min.css
+│  │  │  ├── regular.css
+│  │  │  ├── regular.min.css
+│  │  │  ├── solid.css
+│  │  │  ├── solid.min.css
+│  │  │  ├── svg-with-js.css
+│  │  │  ├── svg-with-js.min.css
+│  │  │  ├── v4-font-face.css
+│  │  │  ├── v4-font-face.min.css
+│  │  │  ├── v4-shims.css
+│  │  │  ├── v4-shims.min.css
+│  │  │  ├── v5-font-face.css
+│  │  │  └── v5-font-face.min.css
+│  │  └── webfonts
+│  │    ├── fa-brands-400.ttf
+│  │    ├── fa-brands-400.woff2
+│  │    ├── fa-regular-400.ttf
+│  │    ├── fa-regular-400.woff2
+│  │    ├── fa-solid-900.ttf
+│  │    ├── fa-solid-900.woff2
+│  │    ├── fa-v4compatibility.ttf
+│  │    └── fa-v4compatibility.woff2
+│  ├── fonts
+│  │  ├── space-grotesk-v13-latin-700.woff
+│  │  ├── space-grotesk-v13-latin-700.woff2
+│  │  ├── space-grotesk-v13-latin-regular.woff
+│  │  └── space-grotesk-v13-latin-regular.woff2
+│  └── images
+│    ├── blogster.png
+│    └── og.png
+├── README.md
+├── src
+│  ├── components
+│  │  ├── AboutTheTheme.astro
+│  │  ├── BlogPostMeta.astro
+│  │  ├── CodeBlock.astro
+│  │  ├── CodePenEmbed.astro
+│  │  ├── DarkModeToggle.astro
+│  │  ├── Footer.astro
+│  │  ├── GitHubGistEmbed.astro
+│  │  ├── Header.astro
+│  │  ├── HeaderLink.astro
+│  │  ├── Heading.astro
+│  │  ├── Intro.astro
+│  │  ├── Nav.astro
+│  │  ├── PageMeta.astro
+│  │  ├── Renderer.astro
+│  │  ├── TweetEmbed.astro
+│  │  └── YouTubeEmbed.astro
+│  ├── config.ts
+│  ├── env.d.ts
+│  ├── layouts
+│  │  ├── ContentLayout.astro
+│  │  ├── Favicon.astro
+│  │  ├── FontAwesome.astro
+│  │  ├── GoogleFont.astro
+│  │  ├── PageLayout.astro
+│  │  └── ThemeScript.astro
+│  ├── lib
+│  │  ├── markdoc
+│  │  │  ├── frontmatter.schema.ts
+│  │  │  ├── markdoc.config.ts
+│  │  │  └── read.ts
+│  │  └── seo.ts
+│  ├── pages
+│  │  ├── blog
+│  │  │  └── [slug].astro
+│  │  ├── blog.astro
+│  │  ├── index.astro
+│  │  ├── projects.astro
+│  │  └── rss.xml.ts
+│  └── styles
+│    └── global.css
+├── tailwind.config.cjs
+└── tsconfig.json
