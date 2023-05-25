@@ -52,23 +52,25 @@
     constructor() {
       super();
       let currentMode = "light";
-    const storedTheme = sessionStorage.getItem("theme");
+  const storedTheme = sessionStorage.getItem("theme");
 
-    if (storedTheme) {
-      currentMode = storedTheme === "dark" ? "dark" : "light";
+  if (storedTheme) {
+    currentMode = storedTheme === "dark" ? "dark" : "light";
+  } else {
+    sessionStorage.setItem("theme", "light");
+  }
+
+  const toggle = this.querySelector("button");
+  const iconElem = toggle?.querySelector("#mode-circle");
+
+  if (iconElem) {
+    if (currentMode === "dark") {
+      iconElem.classList.remove("light");
+      iconElem.classList.add("dark");
     } else {
-      sessionStorage.setItem("theme", "light");
+      iconElem.classList.remove("dark");
+      iconElem.classList.add("light");
     }
-
-      const toggle = this.querySelector("button");
-      const iconElem = toggle?.querySelector("#mode-circle");
-
-      if (iconElem) {
-        // set the toggle mode based on the html classname set in ThemeScript.astro
-        if (currentMode === "dark") {
-          iconElem.classList.remove("light");
-          iconElem.classList.add("dark");
-        }
 
         // we load the toggle invisible to prevent flash
         // remove visibility class after setting initial dark/light class
