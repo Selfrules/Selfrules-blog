@@ -2,7 +2,7 @@
 external: false
 title: "La Costanza: L'Elixir del Successo 🏋️‍♂️💼"
 description: "Esplora come la costanza può trasformare i tuoi obiettivi in realtà, sia che tu stia sollevando pesi in palestra o portando a termine un progetto in ufficio. Non ci sono scorciatoie, solo il potere della costanza!"
-date: 2023-05-28
+date: 2023-05-29
 keywords: Costanza, Fitness, Obiettivi, Successo, Autostima
 ---
 
