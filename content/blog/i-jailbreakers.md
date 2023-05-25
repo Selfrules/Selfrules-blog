@@ -26,6 +26,8 @@ Come Facilitatore, ho lavorato per migliorare la comunicazione e la collaborazio
 
 Questo approccio ha pagato: i Jailbrakers hanno vinto il campionato CSI di Modena! Non solo abbiamo raggiunto il successo, ma siamo cresciuti come squadra e come individui, imparando che i principi Agile possono portare al successo, in campo e fuori.
 
+[Guarda il post](https://www.instagram.com/p/CsQs2IYNHgz/)
+
 ## Glossario 📚
 
 - **Product Owner**: Nel nostro contesto, è la persona che stabilisce la visione e gli obiettivi del gioco per la squadra.
