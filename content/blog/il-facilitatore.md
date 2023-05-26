@@ -2,7 +2,7 @@
 external: false
 title: "Il Facilitatore: L'Incantatore di Team 🪄✨"
 description: "Scopri il mondo affascinante della facilitazione 😮 e come un facilitatore può trasformare un gruppo di individui in un team di alta performance 🚀."
-date: 2023-05-26
+date: 2023-05-22
 keywords: Facilitazione, Team, Agile, Comunicazione, Retrospettiva 
 ---
 

@@ -2,7 +2,7 @@
 external: false
 title: "L'Unione dei Mestieri: Il Product Owner e il Facilitatore nei Jailbrakers 🏀"
 description: "Scopri come l'unione di due ruoli chiave dal mondo Agile può portare al successo anche in campo sportivo, attraverso la storia dei Jailbrakers. 🏆"
-date: 2023-05-28
+date: 2023-05-24
 keywords: Product Owner, Facilitazione, Team, Agile, Basket, Jailbrakers, CSI Modena 
 ---
 

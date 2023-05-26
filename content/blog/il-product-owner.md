@@ -2,7 +2,7 @@
 external: false
 title: "Product Owner: Il Navigatore dei Mari Digitali 🌊⛵"
 description: "Immergiti nel mondo affascinante del Product Owner 🧭, un ruolo essenziale nella navigazione delle acque tumultuose dello sviluppo del software 💻 e oltre."
-date: 2023-05-26
+date: 2023-05-21
 keywords: Product Owner, Scrum, Agile, Sviluppo Software, Management 
 ---
 

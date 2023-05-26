@@ -2,7 +2,7 @@
 external: false
 title: "Retrospettiva: La Lente di Ingrandimento sul Tuo Team 🔍👥"
 description: "Scopri come la retrospettiva trasforma un'ordinaria squadra di lavoro in un team di supereroi produttivi 🦸‍♀️🦸‍♂️. E no, non servono i raggi X!"
-date: 2023-05-27
+date: 2023-05-23
 keywords: Retrospettiva, Feedback, Miglioramento Continuo, Agile, Sprint
 ---
 
