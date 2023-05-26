@@ -1,13 +1,18 @@
 ├── .gitignore
 ├── astro.config.mjs
+├── blog.tree
 ├── content
 │  ├── blog
-│  │  ├── basic-markdown-style-guide.md
-│  │  ├── draft-post.md
 │  │  ├── extended-markdown-style-guide.md
 │  │  ├── external-link-example.md
-│  │  ├── hello-world.md
-│  │  └── syntax-highlighting.md
+│  │  ├── i-jailbreakers.md
+│  │  ├── il-facilitatore.md
+│  │  ├── il-product-owner.md
+│  │  ├── la-costanza.md
+│  │  ├── la-retrospettiva.md
+│  │  ├── prodotto-da-zero-parte2.md
+│  │  ├── prodotto-da-zero-parte3.md
+│  │  └── prodotto-da-zero.md
 │  └── projects
 │    ├── design-system-boilerplate.md
 │    ├── dev-landing-page.md
