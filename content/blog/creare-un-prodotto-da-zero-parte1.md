@@ -38,4 +38,4 @@ Dopo aver completato la nostra ricerca, è il momento di iniziare a disegnare il
 
 **Progettazione**: La fase in cui iniziamo a visualizzare come sarà il nostro prodotto. Coinvolge tutto, dalla creazione di wireframes alla definizione di come le funzionalità si uniranno per creare un'esperienza d'uso coesa.
 
-**Agile**: Un modo di lavorare che celebra il cambiamento, la collaborazione e il miglioramento continuo. Agile è spesso usato nello sviluppo di prodotti per permettere ai team di rispondere rapidamente alle esigenze degli utenti e del mercato.
+[**Agile**](/blog/agile): Un modo di lavorare che celebra il cambiamento, la collaborazione e il miglioramento continuo. Agile è spesso usato nello sviluppo di prodotti per permettere ai team di rispondere rapidamente alle esigenze degli utenti e del mercato.

@@ -27,4 +27,4 @@ E qui ci fermiamo, amici! Rimanete sintonizzati per la terza e ultima parte dell
 
 - **Progettazione**: Fase in cui definiamo l'aspetto e il funzionamento del nostro prodotto 🏗️. Coinvolge la creazione di wireframes, mockups e user stories.
 - **Sviluppo**: Fase in cui costruiamo il nostro prodotto 💻. Richiede competenze tecniche e una buona dose di problem solving.
-- **Agile**: Un modo di lavorare che enfatizza la comunicazione,
+- [**Agile**](/blog/agile): Un modo di lavorare che enfatizza la comunicazione,

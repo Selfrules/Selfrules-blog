@@ -31,5 +31,5 @@ Anche se il Product Owner è nato nello sviluppo del software 💻, le sue abili
 
 - **Product Owner**: Il capitano del viaggio di sviluppo del software ⛵. Decide sulla rotta del prodotto e mantiene il team focalizzato sull'obiettivo 🎯.
 - **Scrum**: Un modo di viaggiare nel mondo dello sviluppo del software 🚀. Prevede viaggi brevi e intensi (sprint), con pause per il controllo e il miglioramento (retrospettive 🔄).
-- **Agile**: Un modo di viaggiare nel mondo del lavoro 💼, che celebra il cambiamento, la collaborazione, e il miglioramento continuo 🌱.
+- [**Agile**](/blog/agile): Un modo di viaggiare nel mondo del lavoro 💼, che celebra il cambiamento, la collaborazione, e il miglioramento continuo 🌱.
 - **Backlog del prodotto**: Una lista di 'cose da fare' per il prodotto 📝. È curato dal Product Owner, ma tutti possono contribuire con idee 💡.

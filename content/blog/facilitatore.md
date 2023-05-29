@@ -26,4 +26,4 @@ Un Facilitatore aiuta il team a lavorare meglio insieme, aumentando l'efficienza
 
 - **Facilitatore**: Un mago 🧙‍♂️ che trasforma un gruppo di individui in un team di alta performance 🚀.
 - [**Retrospettiva**](/blog/la-retrospettiva): Un rituale 🔄 di riflessione e apprendimento, un momento sacro per il miglioramento del team 🎓.
-- **Agile**: Un modo di viaggiare nel mondo del lavoro 💼, che celebra il cambiamento, la collaborazione, e il miglioramento continuo 🌱.
+- [**Agile**](/blog/agile): Un modo di viaggiare nel mondo del lavoro 💼, che celebra il cambiamento, la collaborazione, e il miglioramento continuo 🌱.
