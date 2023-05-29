@@ -30,7 +30,7 @@ Dopo aver completato la nostra ricerca, è il momento di iniziare a disegnare il
 
 ## Glossario
 
-**Product Owner (PO)**: Un ruolo chiave in un team di sviluppo di prodotti, il PO è responsabile di garantire che il prodotto finale fornisca valore sia per l'utente che per l'azienda. Essi gestiscono il Product Backlog e lavorano a stretto contatto con il team di sviluppo per assicurare che le idee vengano trasformate in funzionalità di prodotto.
+[**Product Owner (PO)**](/blog/product-owner): Un ruolo chiave in un team di sviluppo di prodotti, il PO è responsabile di garantire che il prodotto finale fornisca valore sia per l'utente che per l'azienda. Essi gestiscono il Product Backlog e lavorano a stretto contatto con il team di sviluppo per assicurare che le idee vengano trasformate in funzionalità di prodotto.
 
 **Idea**: L'inizio di ogni prodotto. Un lampo di ispirazione che porta alla creazione di qualcosa di nuovo.
 

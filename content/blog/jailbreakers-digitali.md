@@ -31,7 +31,7 @@ Questo approccio ha pagato: i Jailbrakers hanno vinto il campionato CSI di Moden
 ## Glossario 📚
 
 - **Product Owner**: Nel nostro contesto, è la persona che stabilisce la visione e gli obiettivi del gioco per la squadra.
-- **Facilitatore**: È colui che migliora la comunicazione e la collaborazione del team, e introduce pratiche di riflessione e apprendimento come la Retrospettiva.
-- **Retrospettiva**: Un momento dopo ogni partita dove il team si riunisce per discutere di cosa ha funzionato, cosa no, e come migliorare.
+- [**Facilitatore**](/blog/facilitatore): È colui che migliora la comunicazione e la collaborazione del team, e introduce pratiche di riflessione e apprendimento come la Retrospettiva.
+- [**Retrospettiva**](/blog/la-retrospettiva): Un momento dopo ogni partita dove il team si riunisce per discutere di cosa ha funzionato, cosa no, e come migliorare.
 - **Agile**: Un modo di approcciare qualsiasi attività, che celebra il cambiamento, la collaborazione, e il miglioramento continuo.
 - **CSI Modena**: Il campionato dove abbiamo portato a casa la vittoria grazie al nostro nuovo approccio.
