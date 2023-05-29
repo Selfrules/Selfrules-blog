@@ -1,18 +1,20 @@
 ├── .gitignore
+├── .vscode
+│  └── settings.json
 ├── astro.config.mjs
 ├── blog.tree
 ├── content
 │  ├── blog
+│  │  ├── creare-un-prodotto-da-zero-parte1.md
+│  │  ├── creare-un-prodotto-da-zero-parte2.md
+│  │  ├── creare-un-prodotto-da-zero-parte3.md
 │  │  ├── extended-markdown-style-guide.md
 │  │  ├── external-link-example.md
-│  │  ├── i-jailbreakers.md
-│  │  ├── il-facilitatore.md
-│  │  ├── il-product-owner.md
+│  │  ├── facilitatore.md
+│  │  ├── jailbreakers-digitali.md
 │  │  ├── la-costanza.md
 │  │  ├── la-retrospettiva.md
-│  │  ├── prodotto-da-zero-parte2.md
-│  │  ├── prodotto-da-zero-parte3.md
-│  │  └── prodotto-da-zero.md
+│  │  └── product-owner.md
 │  └── projects
 │    ├── design-system-boilerplate.md
 │    ├── dev-landing-page.md
