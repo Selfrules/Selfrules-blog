@@ -34,5 +34,5 @@ La **retrospettiva** è come un supereroe 🦸 nel mondo dell'efficienza del tea
 
 - [**Retrospettiva**](/blog/la-retrospettiva): Una sorta di macchina del tempo ⏳ che ci permette di riflettere sulla nostra avventura passata (l'ultimo sprint o fase del progetto) e pianificare come migliorare nel futuro 🚀.
 - **Miglioramento Continuo**: Un mantra 📿 per diventare sempre migliori, attraverso la riflessione e il feedback 💭.
-- **Sprint**: Una stagione del nostro viaggio di lavoro 🧭 (di solito due settimane o un mese) in cui ci impegniamo a raggiungere specifici traguardi 🏁.
+- [**Sprint**](/blog/la-danza-dello-sprint): Una stagione del nostro viaggio di lavoro 🧭 (di solito due settimane o un mese) in cui ci impegniamo a raggiungere specifici traguardi 🏁.
 - [**Agile**](/blog/agile): Un modo di viaggiare nel mondo del lavoro 💼, che celebra il cambiamento, la collaborazione e il miglioramento continuo 🔄🤝⬆️.
